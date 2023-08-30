@@ -2,9 +2,9 @@
 IMDB映画レビューデータセットで学習したモデルを使用して, 与えられた文章が Positive か Negative な sentiment かを分類
 
 ## Version
-python 3.11.3  
-tensorflow 2.12.0  
-gradio 3.23.0  
+- python 3.11.3  
+- tensorflow 2.12.0  
+- gradio 3.23.0  
 
 ## 使い方（Usage）
 - まず, ```model_save.py```を実行してください.  IMDB映画レビューデータセットを用いて model を生成し, 保存 
